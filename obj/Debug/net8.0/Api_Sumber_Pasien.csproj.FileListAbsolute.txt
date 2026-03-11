@@ -160,3 +160,4 @@ D:\Api RS Kristen Ngesti Waluyo\obj\Debug\net8.0\refint\Api_Sumber_Pasien.dll
 D:\Api RS Kristen Ngesti Waluyo\obj\Debug\net8.0\Api_Sumber_Pasien.pdb
 D:\Api RS Kristen Ngesti Waluyo\obj\Debug\net8.0\Api_Sumber_Pasien.genruntimeconfig.cache
 D:\Api RS Kristen Ngesti Waluyo\obj\Debug\net8.0\ref\Api_Sumber_Pasien.dll
+D:\Api RS Kristen Ngesti Waluyo\obj\Debug\net8.0\Api_Sumber_Pasien.sourcelink.json
