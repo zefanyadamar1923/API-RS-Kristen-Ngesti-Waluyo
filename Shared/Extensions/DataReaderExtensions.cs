@@ -1,6 +1,6 @@
 using System.Data;
 
-namespace Api_Sumber_Pasien.Shared.Extensions
+namespace Api_RS_Kristen_Ngesti_Waluyo.Shared.Extensions
 {
     public static class DataReaderExtensions
     {

@@ -1,11 +1,11 @@
 using DotNetEnv;
 using Microsoft.OpenApi.Models;
-using Api_Sumber_Pasien.Features.Kota.Services;
-using Api_Sumber_Pasien.Features.Pekerjaan.Services;
-using Api_Sumber_Pasien.Features.SumberPasien.Services;
-using Api_Sumber_Pasien.Features.Kota;
-using Api_Sumber_Pasien.Features.Pekerjaan;
-using Api_Sumber_Pasien.Features.SumberPasien;
+using Api_RS_Kristen_Ngesti_Waluyo.Features.Kota.Services;
+using Api_RS_Kristen_Ngesti_Waluyo.Features.Pekerjaan.Services;
+using Api_RS_Kristen_Ngesti_Waluyo.Features.SumberPasien.Services;
+using Api_RS_Kristen_Ngesti_Waluyo.Features.Kota;
+using Api_RS_Kristen_Ngesti_Waluyo.Features.Pekerjaan;
+using Api_RS_Kristen_Ngesti_Waluyo.Features.SumberPasien;
 
 var builder = WebApplication.CreateBuilder(args);
 

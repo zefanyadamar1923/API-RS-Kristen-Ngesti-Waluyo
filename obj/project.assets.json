@@ -83,9 +83,7 @@
             "related": ".xml"
           }
         },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        "frameworkReferences": ["Microsoft.AspNetCore.App"]
       },
       "Microsoft.Bcl.AsyncInterfaces/8.0.0": {
         "type": "package",
@@ -806,9 +804,7 @@
             "related": ".pdb;.xml"
           }
         },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        "frameworkReferences": ["Microsoft.AspNetCore.App"]
       },
       "Swashbuckle.AspNetCore.SwaggerGen/6.4.0": {
         "type": "package",
@@ -838,9 +834,7 @@
             "related": ".pdb;.xml"
           }
         },
-        "frameworkReferences": [
-          "Microsoft.AspNetCore.App"
-        ]
+        "frameworkReferences": ["Microsoft.AspNetCore.App"]
       },
       "System.AppContext/4.3.0": {
         "type": "package",
@@ -6569,9 +6563,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Api RS Kristen Ngesti Waluyo\\Api_Sumber_Pasien.csproj",
-      "projectName": "Api_Sumber_Pasien",
-      "projectPath": "D:\\Api RS Kristen Ngesti Waluyo\\Api_Sumber_Pasien.csproj",
+      "projectUniqueName": "D:\\Api RS Kristen Ngesti Waluyo\\Api_RS_Kristen_Ngesti_Waluyo.csproj",
+      "projectName": "Api_RS_Kristen_Ngesti_Waluyo",
+      "projectPath": "D:\\Api RS Kristen Ngesti Waluyo\\Api_RS_Kristen_Ngesti_Waluyo.csproj",
       "packagesPath": "C:\\Users\\ANTOK\\.nuget\\packages\\",
       "outputPath": "D:\\Api RS Kristen Ngesti Waluyo\\obj\\",
       "projectStyle": "PackageReference",
@@ -6583,9 +6577,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
-      "originalTargetFrameworks": [
-        "net8.0"
-      ],
+      "originalTargetFrameworks": ["net8.0"],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
@@ -6597,9 +6589,7 @@
         }
       },
       "warningProperties": {
-        "warnAsError": [
-          "NU1605"
-        ]
+        "warnAsError": ["NU1605"]
       },
       "restoreAuditProperties": {
         "enableAudit": "true",

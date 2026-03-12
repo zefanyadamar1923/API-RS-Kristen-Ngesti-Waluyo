@@ -2,7 +2,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.2.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_Sumber_Pasien", "Api_Sumber_Pasien.csproj", "{7488024D-8F69-9959-3215-6417F50C044B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Api_RS_Kristen_Ngesti_Waluyo", "Api_RS_Kristen_Ngesti_Waluyo.csproj", "{7488024D-8F69-9959-3215-6417F50C044B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

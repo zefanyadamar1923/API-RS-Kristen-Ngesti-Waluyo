@@ -1,9 +1,9 @@
-using Api_Sumber_Pasien.Shared.Data;
-using Api_Sumber_Pasien.Shared.Extensions;
-using Api_Sumber_Pasien.Features.Kota.Models;
+using Api_RS_Kristen_Ngesti_Waluyo.Shared.Data;
+using Api_RS_Kristen_Ngesti_Waluyo.Shared.Extensions;
+using Api_RS_Kristen_Ngesti_Waluyo.Features.Kota.Models;
 using Microsoft.Data.SqlClient;
 
-namespace Api_Sumber_Pasien.Features.Kota.Services
+namespace Api_RS_Kristen_Ngesti_Waluyo.Features.Kota.Services
 {
     public class KotaService : IKotaService
     {

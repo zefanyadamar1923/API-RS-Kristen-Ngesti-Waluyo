@@ -1,9 +1,9 @@
-using Api_Sumber_Pasien.Shared.Data;
-using Api_Sumber_Pasien.Shared.Extensions;
-using Api_Sumber_Pasien.Features.Pekerjaan.Models;
+using Api_RS_Kristen_Ngesti_Waluyo.Shared.Data;
+using Api_RS_Kristen_Ngesti_Waluyo.Shared.Extensions;
+using Api_RS_Kristen_Ngesti_Waluyo.Features.Pekerjaan.Models;
 using Microsoft.Data.SqlClient;
 
-namespace Api_Sumber_Pasien.Features.Pekerjaan.Services
+namespace Api_RS_Kristen_Ngesti_Waluyo.Features.Pekerjaan.Services
 {
     public class PekerjaanService : IPekerjaanService
     {

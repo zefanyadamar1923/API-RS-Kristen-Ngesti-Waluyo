@@ -1,7 +1,7 @@
-using Api_Sumber_Pasien.Features.Kota.Services;
-using Api_Sumber_Pasien.Shared.Models.Response;
+using Api_RS_Kristen_Ngesti_Waluyo.Features.Kota.Services;
+using Api_RS_Kristen_Ngesti_Waluyo.Shared.Models.Response;
 
-namespace Api_Sumber_Pasien.Features.Kota
+namespace Api_RS_Kristen_Ngesti_Waluyo.Features.Kota
 {
     public static class KotaEndpoints
     {

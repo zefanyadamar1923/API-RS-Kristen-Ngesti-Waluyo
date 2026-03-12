@@ -1,6 +1,6 @@
-@Api_Sumber_Pasien_HostAddress = http://localhost:5067
+@Api_RS_Kristen_Ngesti_Waluyo_HostAddress = http://localhost:5067
 
-GET {{Api_Sumber_Pasien_HostAddress}}/weatherforecast/
+GET {{Api_RS_Kristen_Ngesti_Waluyo_HostAddress}}/weatherforecast/
 Accept: application/json
 
 ###

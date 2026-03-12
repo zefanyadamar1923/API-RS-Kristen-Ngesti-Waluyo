@@ -1,4 +1,4 @@
-namespace Api_Sumber_Pasien.Shared.Models.Response
+namespace Api_RS_Kristen_Ngesti_Waluyo.Shared.Models.Response
 {
     public class ApiResponse<T>
     {

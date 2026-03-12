@@ -1,6 +1,6 @@
-using Api_Sumber_Pasien.Features.SumberPasien.Models;
+using Api_RS_Kristen_Ngesti_Waluyo.Features.SumberPasien.Models;
 
-namespace Api_Sumber_Pasien.Features.SumberPasien.Services
+namespace Api_RS_Kristen_Ngesti_Waluyo.Features.SumberPasien.Services
 {
     public interface ISumberPasienService
     {

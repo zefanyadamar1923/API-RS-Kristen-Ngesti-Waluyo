@@ -1,6 +1,6 @@
-using Api_Sumber_Pasien.Features.Kota.Models;
+using Api_RS_Kristen_Ngesti_Waluyo.Features.Kota.Models;
 
-namespace Api_Sumber_Pasien.Features.Kota.Services
+namespace Api_RS_Kristen_Ngesti_Waluyo.Features.Kota.Services
 {
     public interface IKotaService
     {

@@ -1,4 +1,4 @@
-namespace Api_Sumber_Pasien.Features.Kota.Models
+namespace Api_RS_Kristen_Ngesti_Waluyo.Features.Kota.Models
 {
     public class Kota
     {

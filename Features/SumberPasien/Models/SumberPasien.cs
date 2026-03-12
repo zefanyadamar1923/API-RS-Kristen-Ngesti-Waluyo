@@ -1,4 +1,4 @@
-namespace Api_Sumber_Pasien.Features.SumberPasien.Models
+namespace Api_RS_Kristen_Ngesti_Waluyo.Features.SumberPasien.Models
 {
     public class SumberPasien
     {

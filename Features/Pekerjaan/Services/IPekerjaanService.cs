@@ -1,6 +1,6 @@
-using Api_Sumber_Pasien.Features.Pekerjaan.Models;
+using Api_RS_Kristen_Ngesti_Waluyo.Features.Pekerjaan.Models;
 
-namespace Api_Sumber_Pasien.Features.Pekerjaan.Services
+namespace Api_RS_Kristen_Ngesti_Waluyo.Features.Pekerjaan.Services
 {
     public interface IPekerjaanService
     {

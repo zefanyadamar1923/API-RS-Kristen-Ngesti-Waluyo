@@ -1,4 +1,4 @@
-namespace Api_Sumber_Pasien.Features.Pekerjaan.Models
+namespace Api_RS_Kristen_Ngesti_Waluyo.Features.Pekerjaan.Models
 {
     public class Pekerjaan
     {
